@@ -24,3 +24,4 @@ print("")
 for post in posts[:3]:
     print("Title:", post["title"])
     print("")
+    
